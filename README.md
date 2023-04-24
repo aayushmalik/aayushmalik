@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aayushmalik, currently working as [Data Science Associate](https://www.3ieimpact.org/about-us/meet-the-team/aayush-malik) at the [International Initiative for Impact Evaluation](http://3ieimpact.org/)
-- 👀 I’m interested in Bayesian Inference, Natural Processing Processing, Causal Inference for ML, and Geospatial Impact Evaluation.
-- 🌱 I’m currently learning Bayesian Optimization for Hyperparameter Tuning.
+- 👋 Hi, I’m @aayushmalik, currently working as a Solutions Engineer II with Planet Labs PBC.
+- 👀 I’m interested in Causal Inference and specifically in how we can use remotely-sensed data for making business decisions.
+- 🌱 I’m currently learning the applications of Earth Observation for data-driven decision making.
 - 📫 Reach out to me on my email address chaayushmalik[at]gmail[dot]com and read my [BLOG](https://chaayushmalik.medium.com/) on medium.
