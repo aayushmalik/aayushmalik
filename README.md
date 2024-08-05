@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aayushmalik, currently working as a Solutions Engineer II with Planet Labs PBC.
+- 👋 Hi, I’m @aayushmalik, currently working as a Python  Solutions Architect I with Planet Labs PBC.
 - 👀 I’m interested in Causal Inference and specifically in how we can use remotely-sensed data for making business decisions.
 - 🌱 I’m currently learning the applications of Earth Observation for data-driven decision making.
 - 📫 Reach out to me on my email address chaayushmalik[at]gmail[dot]com and read my [BLOG](https://chaayushmalik.medium.com/) on medium.
